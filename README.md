@@ -1,6 +1,4 @@
-# NLP_Project 
-
-Code mixed NL Generation
+# Code mixed NL Generation
 
 -------
 ## "data" Folder
