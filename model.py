@@ -67,4 +67,6 @@ if __name__=="__main__":
 	# Calculate the frequencies
 	for n in range(2,4):
 		word_cnt, tag_cnt = calculate(data, word_cnt, tag_cnt, n)
-
+		
+	pickle.dump(tag_cnt,open('bitag.pkl','wb'))
+	pickle.dump(word_cnt,open('biword.pkl','wb'))

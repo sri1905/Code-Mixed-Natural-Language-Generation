@@ -1,0 +1,2015 @@
+(dp0
+S'G_V CC G_J'
+p1
+I82
+sS'<s> CC CC'
+p2
+I11
+sS'G_R G_V G_R'
+p3
+I1
+sS'G_V CC G_N'
+p4
+I7187
+sS'G_R G_V G_V'
+p5
+I14
+sS'G_PRP CC G_PRP'
+p6
+I13
+sS'G_R G_V G_X'
+p7
+I150
+sS'G_PRP G_R CC'
+p8
+I1
+sS'G_R G_R G_V'
+p9
+I2
+sS'G_PRP CC G_PRT'
+p10
+I1
+sS'G_V G_PRP G_N'
+p11
+I1788
+sS'G_V G_PRT G_N'
+p12
+I28
+sS'G_V CC G_X'
+p13
+I8
+sS'G_R G_R G_N'
+p14
+I1
+sS'G_V G_PRP G_V'
+p15
+I265
+sS'G_V CC G_R'
+p16
+I152
+sS'G_V G_PRP G_X'
+p17
+I34
+sS'G_V CC G_V'
+p18
+I158
+sS'G_R G_V G_N'
+p19
+I83
+sS'G_V G_X G_PRP'
+p20
+I10
+sS'G_N CC'
+p21
+I4483
+sS'G_V G_PRT G_X'
+p22
+I5
+sS'G_N G_PRP G_PRP'
+p23
+I267
+sS'G_R G_X G_X'
+p24
+I1
+sS'G_V G_PRP G_J'
+p25
+I112
+sS'G_V G_J G_PRT'
+p26
+I2
+sS'CC G_V CC'
+p27
+I39
+sS'G_SYM G_N CC'
+p28
+I22
+sS'G_J CC G_N'
+p29
+I40
+sS'<s> G_PRT G_PRP'
+p30
+I60
+sS'G_R G_J G_N'
+p31
+I3
+sS'G_J CC G_J'
+p32
+I256
+sS'G_R G_SYM'
+p33
+I8
+sS'G_V G_PRT G_R'
+p34
+I2
+sS'G_J G_PRP G_PRP'
+p35
+I3
+sS'G_J G_J G_N'
+p36
+I5
+sS'G_J G_N G_N'
+p37
+I932
+sS'<\\s> <s> G_SYM'
+p38
+I81
+sS'G_X G_N G_PRP'
+p39
+I75
+sS'G_V G_PRP G_R'
+p40
+I30
+sS'G_X G_R G_V'
+p41
+I2
+sS'G_R G_X G_V'
+p42
+I2
+sS'G_SYM G_N G_PRT'
+p43
+I1
+sS'G_X G_R G_N'
+p44
+I2
+sS'G_R G_N G_J'
+p45
+I60
+sS'G_SYM G_N G_PRP'
+p46
+I14
+sS'CC G_R G_PRP'
+p47
+I43
+sS'G_V G_PRT G_J'
+p48
+I2
+sS'G_N G_N CC'
+p49
+I2917
+sS'G_PRP G_PRT G_PRT'
+p50
+I1
+sS'G_R G_N G_N'
+p51
+I569
+sS'G_V G_PRT G_SYM'
+p52
+I1
+sS'G_PRP G_PRT G_PRP'
+p53
+I9
+sS'G_J G_V G_PRP'
+p54
+I399
+sS'G_J G_V G_PRT'
+p55
+I4
+sS'G_PRP G_X <\\s>'
+p56
+I42
+sS'G_N G_V null'
+p57
+I1
+sS'<s> G_SYM G_SYM'
+p58
+I4
+sS'G_R G_V G_J'
+p59
+I6
+sS'G_SYM G_N G_SYM'
+p60
+I13
+sS'G_N CC G_J'
+p61
+I27
+sS'G_PRT G_V G_N'
+p62
+I35
+sS'G_N CC G_N'
+p63
+I4180
+sS'G_N CC G_R'
+p64
+I5
+sS'G_PRT G_V G_V'
+p65
+I8
+sS'G_N CC G_V'
+p66
+I16
+sS'G_PRT G_V G_X'
+p67
+I126
+sS'G_R G_J G_PRP'
+p68
+I2
+sS'CC G_N G_X'
+p69
+I37
+sS'CC G_N G_V'
+p70
+I1397
+sS'CC G_N G_R'
+p71
+I141
+sS'CC G_N G_N'
+p72
+I8670
+sS'G_N G_N <\\s>'
+p73
+I7
+sS'CC G_N G_J'
+p74
+I664
+sS'CC G_V G_X'
+p75
+I26
+sS'G_J CC G_PRP'
+p76
+I3
+sS'G_PRP G_V <\\s>'
+p77
+I5
+sS'<s> G_PRT CC'
+p78
+I3
+sS'<s> G_V CC'
+p79
+I58
+sS'G_PRT G_PRT G_V'
+p80
+I7
+sS'<s> G_J G_R'
+p81
+I1
+sS'G_PRP G_PRT G_J'
+p82
+I11
+sS'<s> G_J G_V'
+p83
+I29
+sS'<s> G_J G_J'
+p84
+I2
+sS'<s> G_J G_N'
+p85
+I7
+sS'G_PRT G_PRT G_N'
+p86
+I2
+sS'G_N G_X G_PRT'
+p87
+I76
+sS'G_R CC G_R'
+p88
+I1
+sS'G_N G_X G_PRP'
+p89
+I135
+sS'G_N G_N G_N'
+p90
+I31955
+sS'G_PRT G_PRT'
+p91
+I9
+sS'G_PRT G_PRP'
+p92
+I155
+sS'G_X G_PRP'
+p93
+I148
+sS'G_X G_PRT'
+p94
+I76
+sS'G_R CC G_N'
+p95
+I4
+sS'G_J G_X <\\s>'
+p96
+I2
+sS'G_R G_R G_PRP'
+p97
+I1
+sS'CC G_X'
+p98
+I10
+sS'G_SYM G_SYM'
+p99
+I79
+sS'CC G_V'
+p100
+I186
+sS'G_SYM G_J G_J'
+p101
+I2
+sS'CC G_R'
+p102
+I171
+sS'G_SYM G_J G_N'
+p103
+I2
+sS'CC G_N'
+p104
+I12432
+sS'CC G_J'
+p105
+I382
+sS'G_SYM G_J G_V'
+p106
+I16
+sS'<\\s> <s>'
+p107
+I20871
+sS'G_N G_SYM G_J'
+p108
+I19
+sS'G_N G_PRP G_X'
+p109
+I6
+sS'CC G_R G_V'
+p110
+I10
+sS'G_N G_SYM G_N'
+p111
+I296
+sS'G_N G_X G_X'
+p112
+I6
+sS'G_N G_X G_V'
+p113
+I166
+sS'G_N G_PRP G_V'
+p114
+I1080
+sS'G_SYM G_X CC'
+p115
+I3
+sS'G_N G_SYM G_X'
+p116
+I6
+sS'<s> G_SYM'
+p117
+I81
+sS'G_N G_X G_J'
+p118
+I33
+sS'G_V G_R G_N'
+p119
+I96
+sS'G_R G_PRT'
+p120
+I9
+sS'CC G_R G_N'
+p121
+I113
+sS'G_R G_PRP'
+p122
+I160
+sS'G_N G_SYM G_V'
+p123
+I441
+sS'G_PRP G_PRT G_V'
+p124
+I50
+sS'G_N G_V <\\s>'
+p125
+I6
+sS'G_SYM G_J G_PRP'
+p126
+I1
+sS'G_V G_N G_N'
+p127
+I4833
+sS'G_PRP G_PRT G_R'
+p128
+I1
+sS'<s> CC G_PRT'
+p129
+I2
+sS'G_N G_N G_J'
+p130
+I4508
+sS'G_X G_PRT G_J'
+p131
+I1
+sS'<s> G_N CC'
+p132
+I382
+sS'G_N G_R G_X'
+p133
+I2
+sS'G_PRT G_PRP G_SYM'
+p134
+I1
+sS'CC G_N <\\s>'
+p135
+I2
+sS'G_X G_PRP G_J'
+p136
+I4
+sS'G_N G_J'
+p137
+I7408
+sS'CC G_N G_SYM'
+p138
+I98
+sS'G_N G_N'
+p139
+I63346
+sS'G_V G_X'
+p140
+I20493
+sS'G_N G_X'
+p141
+I1072
+sS'G_X G_PRT G_R'
+p142
+I2
+sS'G_N G_V G_N'
+p143
+I7559
+sS'G_N G_R'
+p144
+I1003
+sS'G_V <\\s> <s>'
+p145
+I11
+sS'G_N G_V'
+p146
+I32295
+sS'G_SYM G_PRT G_N'
+p147
+I1
+sS'G_SYM G_R G_N'
+p148
+I1
+sS'G_X G_PRP G_R'
+p149
+I3
+sS'G_V G_R'
+p150
+I145
+sS'G_X G_PRT G_X'
+p151
+I17
+sS'G_SYM G_PRT G_V'
+p152
+I1
+sS'G_V CC CC'
+p153
+I167
+sS'<s> G_X G_N'
+p154
+I5
+sS'G_SYM G_R G_V'
+p155
+I3
+sS'G_PRT G_R G_V'
+p156
+I1
+sS'G_R G_J G_J'
+p157
+I2
+sS'G_V G_V'
+p158
+I2036
+sS'G_R G_SYM CC'
+p159
+I4
+sS'G_N G_N G_PRT'
+p160
+I196
+sS'G_V G_N G_SYM'
+p161
+I77
+sS'G_V G_V G_PRP'
+p162
+I87
+sS'G_PRP G_PRT CC'
+p163
+I1
+sS'G_V CC G_PRP'
+p164
+I2784
+sS'G_J G_V CC'
+p165
+I1303
+sS'G_V CC G_PRT'
+p166
+I140
+sS'<s> G_X G_PRP'
+p167
+I3
+sS'CC CC G_V'
+p168
+I2
+sS'CC G_SYM'
+p169
+I86
+sS'G_V <\\s>'
+p170
+I11
+sS'G_J CC G_V'
+p171
+I2
+sS'CC G_SYM CC'
+p172
+I5
+sS'G_J G_V'
+p173
+I7826
+sS'G_V G_R G_PRP'
+p174
+I23
+sS'G_R G_X'
+p175
+I5
+sS'<s> <\\s>'
+p176
+I1
+sS'G_N <\\s>'
+p177
+I63
+sS'<s> G_N G_V'
+p178
+I1939
+sS'G_R G_V'
+p179
+I342
+sS'<s> G_N G_R'
+p180
+I105
+sS'G_J G_X'
+p181
+I2
+sS'G_PRP G_PRT'
+p182
+I128
+sS'<s> G_N G_N'
+p183
+I9533
+sS'G_R G_N'
+p184
+I1189
+sS'<s> G_N G_J'
+p185
+I439
+sS'G_N G_R G_SYM'
+p186
+I4
+sS'G_R G_J'
+p187
+I140
+sS'G_J G_N'
+p188
+I1491
+sS'G_J G_J'
+p189
+I75
+sS'G_PRT G_N G_N'
+p190
+I214
+sS'G_PRT G_N G_J'
+p191
+I29
+sS'G_N G_SYM'
+p192
+I876
+sS'G_PRT G_R G_PRP'
+p193
+I3
+sS'G_PRT G_N G_X'
+p194
+I2
+sS'G_X CC G_X'
+p195
+I2
+sS'G_PRT G_N G_V'
+p196
+I194
+sS'G_N G_N G_SYM'
+p197
+I482
+sS'<\\s> <s> G_X'
+p198
+I10
+sS'G_V G_J'
+p199
+I622
+sS'G_X G_X <\\s>'
+p200
+I1
+sS'<\\s> <s> G_R'
+p201
+I344
+sS'G_X G_SYM G_V'
+p202
+I1
+sS'G_SYM G_N G_N'
+p203
+I243
+sS'G_X G_R G_X'
+p204
+I2
+sS'<\\s> <s> G_V'
+p205
+I160
+sS'G_R G_PRT G_N'
+p206
+I1
+sS'G_SYM G_N G_J'
+p207
+I56
+sS'<\\s> <s> G_J'
+p208
+I51
+sS'G_SYM G_N G_V'
+p209
+I193
+sS'<\\s> <s> G_N'
+p210
+I14209
+sS'G_R G_PRT G_V'
+p211
+I6
+sS'G_V G_N'
+p212
+I10260
+sS'G_SYM G_N G_X'
+p213
+I5
+sS'G_V G_SYM CC'
+p214
+I3
+sS'G_R G_V CC'
+p215
+I64
+sS'G_J G_N G_PRP'
+p216
+I62
+sS'G_J G_N G_PRT'
+p217
+I4
+sS'G_V G_SYM'
+p218
+I67
+sS'G_X G_R G_PRP'
+p219
+I1
+sS'G_PRP G_X G_J'
+p220
+I2
+sS'G_PRP G_X G_N'
+p221
+I3
+sS'G_R G_N G_R'
+p222
+I3
+sS'G_PRP G_SYM CC'
+p223
+I7
+sS'CC G_PRP CC'
+p224
+I11
+sS'G_PRP G_X G_V'
+p225
+I11
+sS'CC G_V G_V'
+p226
+I9
+sS'CC G_X G_V'
+p227
+I4
+sS'G_SYM G_X'
+p228
+I9
+sS'G_V G_SYM G_V'
+p229
+I33
+sS'G_V G_SYM G_X'
+p230
+I1
+sS'G_SYM G_V'
+p231
+I555
+sS'G_SYM G_R'
+p232
+I4
+sS'G_PRP G_V G_J'
+p233
+I41
+sS'<s> G_J CC'
+p234
+I9
+sS'G_SYM G_N'
+p235
+I547
+sS'G_SYM G_J'
+p236
+I32
+sS'CC G_V G_N'
+p237
+I83
+sS'CC G_X G_N'
+p238
+I2
+sS'CC G_V G_J'
+p239
+I4
+sS'G_V G_SYM G_N'
+p240
+I23
+sS'G_X G_N G_PRT'
+p241
+I5
+sS'G_X G_J G_V'
+p242
+I32
+sS'G_V G_R CC'
+p243
+I2
+sS'G_X G_PRP G_PRP'
+p244
+I28
+sS'G_X G_PRP G_PRT'
+p245
+I4
+sS'G_V G_N G_PRT'
+p246
+I50
+sS'G_X G_J G_N'
+p247
+I1
+sS'G_R G_J G_R'
+p248
+I1
+sS'G_J G_PRT G_PRP'
+p249
+I1
+sS'G_V G_V CC'
+p250
+I870
+sS'G_V G_N G_PRP'
+p251
+I474
+sS'G_V G_PRT G_V'
+p252
+I4
+sS'G_PRP G_V CC'
+p253
+I1626
+sS'CC CC G_PRP'
+p254
+I41
+sS'G_N G_X <\\s>'
+p255
+I251
+sS'<s> G_PRP G_PRT'
+p256
+I40
+sS'<s> G_R G_PRT'
+p257
+I1
+sS'G_V G_PRT G_PRP'
+p258
+I7
+sS'<s> G_PRP G_PRP'
+p259
+I531
+sS'<s> G_R G_PRP'
+p260
+I40
+sS'G_V G_PRT G_PRT'
+p261
+I1
+sS'G_N G_J G_SYM'
+p262
+I6
+sS'G_X G_SYM CC'
+p263
+I4
+sS'G_J CC'
+p264
+I301
+sS'G_V G_X G_V'
+p265
+I7
+sS'G_N G_N G_V'
+p266
+I20321
+sS'G_R G_PRT G_PRP'
+p267
+I1
+sS'G_N G_V G_J'
+p268
+I478
+sS'G_PRT CC G_PRP'
+p269
+I3
+sS'G_N G_N G_X'
+p270
+I203
+sS'G_PRP G_SYM G_PRP'
+p271
+I3
+sS'G_N G_V G_X'
+p272
+I14122
+sS'G_V G_X G_N'
+p273
+I13
+sS'G_N G_V G_V'
+p274
+I1545
+sS'CC G_SYM G_PRT'
+p275
+I1
+sS'G_V G_X G_J'
+p276
+I1
+sS'G_N G_V G_R'
+p277
+I110
+sS'G_SYM G_X G_SYM'
+p278
+I2
+sS'G_SYM G_X <\\s>'
+p279
+I2
+sS'null G_N'
+p280
+I1
+sS'G_R G_N CC'
+p281
+I46
+sS'G_PRT CC'
+p282
+I8
+sS'CC G_V G_PRT'
+p283
+I1
+sS'CC G_V G_PRP'
+p284
+I24
+sS'<s> G_N G_SYM'
+p285
+I96
+sS'G_X CC G_N'
+p286
+I8
+sS'G_PRT G_SYM G_N'
+p287
+I10
+sS'G_N G_R G_J'
+p288
+I96
+sS'CC G_R G_J'
+p289
+I2
+sS'G_J G_PRT CC'
+p290
+I1
+sS'G_N G_R G_N'
+p291
+I578
+sS'G_PRT G_SYM G_V'
+p292
+I1
+sS'G_SYM G_J CC'
+p293
+I11
+sS'G_PRP G_SYM G_SYM'
+p294
+I8
+sS'G_N G_R G_V'
+p295
+I275
+sS'G_V G_J G_X'
+p296
+I2
+sS'<s> CC G_J'
+p297
+I7
+sS'G_J G_SYM G_N'
+p298
+I4
+sS'G_V G_R G_J'
+p299
+I13
+sS'<s> CC G_N'
+p300
+I803
+sS'G_N G_J G_N'
+p301
+I1087
+sS'G_V G_N G_J'
+p302
+I605
+sS'G_N G_V G_SYM'
+p303
+I47
+sS'G_V G_R G_X'
+p304
+I1
+sS'G_N CC G_PRP'
+p305
+I241
+sS'G_N CC G_PRT'
+p306
+I4
+sS'<s> CC G_R'
+p307
+I12
+sS'G_J G_SYM G_V'
+p308
+I1
+sS'G_N G_J G_R'
+p309
+I3
+sS'<s> CC G_V'
+p310
+I7
+sS'G_N G_J G_V'
+p311
+I6034
+sS'G_R G_SYM G_V'
+p312
+I4
+sS'G_PRP G_PRP G_R'
+p313
+I16
+sS'G_PRP G_PRP G_V'
+p314
+I354
+sS'G_PRP G_PRP G_X'
+p315
+I3
+sS'G_X G_PRT G_PRP'
+p316
+I18
+sS'G_V G_V G_X'
+p317
+I776
+sS'CC G_SYM G_PRP'
+p318
+I4
+sS'G_N G_PRT <\\s>'
+p319
+I1
+sS'G_PRT G_N CC'
+p320
+I16
+sS'G_J G_J G_V'
+p321
+I43
+sS'G_X CC'
+p322
+I14
+sS'G_PRP G_PRP G_N'
+p323
+I1260
+sS'G_X G_N G_R'
+p324
+I2
+sS'G_X G_N G_V'
+p325
+I79
+sS'G_R G_PRP G_PRP'
+p326
+I14
+sS'G_PRP G_R G_V'
+p327
+I32
+sS'G_X G_N G_X'
+p328
+I30
+sS'G_PRP G_R G_SYM'
+p329
+I4
+sS'G_PRP G_R G_N'
+p330
+I100
+sS'G_PRP G_R G_J'
+p331
+I26
+sS'G_V G_PRP CC'
+p332
+I15
+sS'CC G_PRP G_PRT'
+p333
+I26
+sS'G_X G_N G_J'
+p334
+I17
+sS'G_PRP G_N G_PRT'
+p335
+I63
+sS'CC G_PRP G_PRP'
+p336
+I510
+sS'G_X G_N G_N'
+p337
+I193
+sS'G_V G_N G_X'
+p338
+I114
+sS'G_R G_N G_X'
+p339
+I3
+sS'G_J G_N G_J'
+p340
+I85
+sS'<s> G_J G_PRP'
+p341
+I3
+sS'G_R G_N G_V'
+p342
+I452
+sS'G_N G_J G_PRP'
+p343
+I40
+sS'G_R G_J G_V'
+p344
+I128
+sS'G_N G_J G_PRT'
+p345
+I12
+sS'G_J G_N G_V'
+p346
+I312
+sS'G_J G_J CC'
+p347
+I24
+sS'G_J G_N G_X'
+p348
+I2
+sS'G_X G_J G_PRT'
+p349
+I1
+sS'G_X G_J G_PRP'
+p350
+I1
+sS'G_V G_V G_N'
+p351
+I259
+sS'G_J G_V G_N'
+p352
+I1548
+sS'CC CC'
+p353
+I178
+sS'G_J G_V G_X'
+p354
+I4238
+sS'G_PRP G_PRT G_X'
+p355
+I2
+sS'G_V G_J G_PRP'
+p356
+I4
+sS'G_V G_N G_R'
+p357
+I76
+sS'G_J G_V G_V'
+p358
+I228
+sS'G_N G_X CC'
+p359
+I11
+sS'G_V G_N G_V'
+p360
+I3752
+sS'CC CC G_R'
+p361
+I1
+sS'G_PRT <\\s> <s>'
+p362
+I1
+sS'G_R G_X <\\s>'
+p363
+I2
+sS'CC CC G_N'
+p364
+I134
+sS'G_V G_J CC'
+p365
+I7
+sS'G_R CC G_PRP'
+p366
+I1
+sS'<s> G_PRP G_SYM'
+p367
+I30
+sS'G_N G_J CC'
+p368
+I180
+sS'G_V G_PRT CC'
+p369
+I1
+sS'G_J G_V G_J'
+p370
+I75
+sS'CC G_N G_PRT'
+p371
+I69
+sS'CC G_N G_PRP'
+p372
+I985
+sS'G_SYM G_PRT'
+p373
+I2
+sS'G_PRT CC G_J'
+p374
+I1
+sS'G_SYM G_PRP'
+p375
+I25
+sS'G_PRT CC G_N'
+p376
+I4
+sS'G_PRP G_N G_V'
+p377
+I3656
+sS'G_V G_PRP G_PRT'
+p378
+I12
+sS'G_X <\\s> <s>'
+p379
+I20796
+sS'CC G_PRP G_SYM'
+p380
+I16
+sS'<s> G_PRP G_V'
+p381
+I1139
+sS'<s> G_R G_V'
+p382
+I5
+sS'<s> G_PRP G_R'
+p383
+I28
+sS'G_PRP G_N G_J'
+p384
+I945
+sS'G_V G_PRP G_SYM'
+p385
+I24
+sS'G_PRT G_PRP G_J'
+p386
+I3
+sS'<s> G_PRP G_X'
+p387
+I1
+sS'G_PRT G_PRP G_PRP'
+p388
+I24
+sS'G_N G_SYM CC'
+p389
+I46
+sS'G_X CC G_PRP'
+p390
+I1
+sS'<s> G_R G_J'
+p391
+I1
+sS'<s> G_PRP G_N'
+p392
+I2644
+sS'<s> G_R G_N'
+p393
+I295
+sS'<s> G_PRP G_J'
+p394
+I260
+sS'G_PRP G_N G_N'
+p395
+I6204
+sS'G_PRT <\\s>'
+p396
+I1
+sS'G_PRT G_PRP G_N'
+p397
+I96
+sS'G_V CC'
+p398
+I10726
+sS'G_V G_PRP G_PRP'
+p399
+I394
+sS'G_X G_N G_SYM'
+p400
+I4
+sS'G_X <\\s>'
+p401
+I20796
+sS'G_J G_SYM CC'
+p402
+I1
+sS'G_X G_V G_SYM'
+p403
+I1
+sS'G_PRT G_PRP G_V'
+p404
+I29
+sS'G_X G_X G_V'
+p405
+I1
+sS'G_PRT G_PRP G_R'
+p406
+I2
+sS'G_N G_PRP'
+p407
+I5444
+sS'G_X G_N CC'
+p408
+I7
+sS'<s> G_N G_X'
+p409
+I641
+sS'CC G_J G_PRP'
+p410
+I5
+sS'G_J G_R'
+p411
+I5
+sS'CC G_J G_PRT'
+p412
+I1
+sS'G_PRP G_SYM'
+p413
+I104
+sS'G_SYM G_PRP G_J'
+p414
+I1
+sS'CC G_SYM G_N'
+p415
+I52
+sS'<s> G_PRP'
+p416
+I4684
+sS'G_PRP G_PRP'
+p417
+I1903
+sS'G_SYM G_PRP G_N'
+p418
+I14
+sS'CC G_SYM G_J'
+p419
+I6
+sS'<s> G_PRT'
+p420
+I214
+sS'<s> G_V'
+p421
+I160
+sS'<s> G_R CC'
+p422
+I2
+sS'<s> G_R'
+p423
+I344
+sS'G_R G_N G_SYM'
+p424
+I4
+sS'<s> G_PRP CC'
+p425
+I11
+sS'<s> G_N'
+p426
+I14210
+sS'<s> G_J'
+p427
+I51
+sS'CC G_SYM G_V'
+p428
+I9
+sS'G_R G_R'
+p429
+I4
+sS'G_SYM G_PRP G_V'
+p430
+I8
+sS'CC G_SYM G_R'
+p431
+I3
+sS'<s> CC G_PRP'
+p432
+I273
+sS'<s> CC'
+p433
+I1117
+sS'CC G_J CC'
+p434
+I28
+sS'G_J G_SYM'
+p435
+I7
+sS'CC G_PRT G_SYM'
+p436
+I1
+sS'G_PRT G_SYM'
+p437
+I11
+sS'G_SYM CC G_PRP'
+p438
+I10
+sS'G_SYM CC G_PRT'
+p439
+I1
+sS'G_J G_PRT'
+p440
+I19
+sS'G_V G_J G_J'
+p441
+I5
+sS'G_J G_PRP'
+p442
+I64
+sS'G_N G_PRT G_X'
+p443
+I5
+sS'G_N G_PRT G_N'
+p444
+I190
+sS'G_V G_J G_N'
+p445
+I52
+sS'G_N G_PRT G_J'
+p446
+I39
+sS'G_N G_PRT'
+p447
+I451
+sS'G_PRP G_N G_SYM'
+p448
+I92
+sS'<s> G_V G_PRP'
+p449
+I20
+sS'<s> G_PRT G_PRT'
+p450
+I6
+sS'G_V null G_N'
+p451
+I1
+sS'<s> CC G_SYM'
+p452
+I2
+sS'G_J G_SYM G_SYM'
+p453
+I1
+sS'G_N G_R G_R'
+p454
+I2
+sS'G_N G_PRT G_PRP'
+p455
+I21
+sS'G_N G_PRT G_PRT'
+p456
+I1
+sS'G_X G_J'
+p457
+I36
+sS'G_V G_J G_V'
+p458
+I550
+sS'G_X G_N'
+p459
+I412
+sS'<s> G_SYM G_PRP'
+p460
+I3
+sS'G_X G_R'
+p461
+I7
+sS'G_X G_V'
+p462
+I194
+sS'G_PRT G_J G_PRP'
+p463
+I1
+sS'G_X G_X'
+p464
+I9
+sS'G_X G_J CC'
+p465
+I1
+sS'G_V G_X <\\s>'
+p466
+I20462
+sS'CC G_PRT'
+p467
+I148
+sS'G_SYM CC G_J'
+p468
+I8
+sS'CC G_PRP'
+p469
+I3370
+sS'G_SYM CC G_N'
+p470
+I30
+sS'G_PRT G_V G_PRP'
+p471
+I17
+sS'G_V null'
+p472
+I1
+sS'CC G_J G_SYM'
+p473
+I1
+sS'G_N CC G_SYM'
+p474
+I10
+sS'G_X G_SYM G_PRP'
+p475
+I1
+sS'CC G_PRT G_V'
+p476
+I41
+sS'CC G_PRT G_R'
+p477
+I1
+sS'CC G_PRT G_X'
+p478
+I1
+sS'G_X G_SYM'
+p479
+I6
+sS'G_V G_SYM G_SYM'
+p480
+I7
+sS'G_N G_J G_J'
+p481
+I46
+sS'G_N G_PRP G_PRT'
+p482
+I33
+sS'CC G_PRT G_N'
+p483
+I64
+sS'null G_N G_PRP'
+p484
+I1
+sS'CC G_PRT G_J'
+p485
+I2
+sS'<s> G_V G_V'
+p486
+I6
+sS'G_X G_V G_X'
+p487
+I83
+sS'<s> G_PRT G_V'
+p488
+I21
+sS'G_R CC'
+p489
+I6
+sS'G_X G_V G_R'
+p490
+I2
+sS'G_SYM G_V CC'
+p491
+I113
+sS'G_X G_V G_V'
+p492
+I3
+sS'<s> G_V G_X'
+p493
+I1
+sS'G_X G_V G_J'
+p494
+I4
+sS'G_SYM CC G_SYM'
+p495
+I23
+sS'G_X G_V G_N'
+p496
+I65
+sS'G_X CC G_SYM'
+p497
+I3
+sS'<s> G_V G_N'
+p498
+I74
+sS'G_V G_V G_V'
+p499
+I32
+sS'<s> G_V G_J'
+p500
+I1
+sS'<s> G_PRT G_N'
+p501
+I122
+sS'G_PRP G_R G_PRP'
+p502
+I8
+sS'G_PRP G_PRP CC'
+p503
+I7
+sS'G_PRP G_R G_PRT'
+p504
+I1
+sS'G_N G_R G_PRP'
+p505
+I40
+sS'G_X G_V G_PRP'
+p506
+I18
+sS'G_N G_R G_PRT'
+p507
+I5
+sS'G_J G_J G_PRP'
+p508
+I1
+sS'G_N G_SYM G_SYM'
+p509
+I53
+sS'G_N G_PRT G_SYM'
+p510
+I8
+sS'G_PRP G_J G_PRP'
+p511
+I6
+sS'G_PRP G_J G_PRT'
+p512
+I3
+sS'G_J G_N G_R'
+p513
+I17
+sS'G_N G_X G_SYM'
+p514
+I2
+sS'<s> G_X'
+p515
+I10
+sS'G_PRP G_PRP G_SYM'
+p516
+I6
+sS'G_R G_PRP G_PRT'
+p517
+I2
+sS'G_PRT G_N G_R'
+p518
+I1
+sS'G_PRT G_N G_PRP'
+p519
+I35
+sS'G_N <\\s> <s>'
+p520
+I63
+sS'G_PRT G_N G_PRT'
+p521
+I4
+sS'CC G_SYM G_SYM'
+p522
+I6
+sS'G_V G_PRP'
+p523
+I2674
+sS'G_V G_PRT'
+p524
+I51
+sS'G_PRP G_N'
+p525
+I12057
+sS'G_PRP G_PRT G_SYM'
+p526
+I1
+sS'G_PRP G_J'
+p527
+I985
+sS'G_N G_N G_PRP'
+p528
+I2230
+sS'G_J G_R G_N'
+p529
+I1
+sS'G_X G_X G_SYM'
+p530
+I2
+sS'G_PRP G_X'
+p531
+I58
+sS'G_PRP G_V'
+p532
+I3162
+sS'G_PRP G_R'
+p533
+I172
+sS'G_J G_V G_SYM'
+p534
+I9
+sS'G_PRT G_R G_N'
+p535
+I2
+sS'G_PRT G_R G_J'
+p536
+I2
+sS'G_V G_R G_R'
+p537
+I1
+sS'G_PRT G_J G_V'
+p538
+I54
+sS'G_PRP G_PRP G_PRP'
+p539
+I130
+sS'G_V G_V G_PRT'
+p540
+I1
+sS'G_V G_V G_J'
+p541
+I10
+sS'G_J G_PRT G_V'
+p542
+I14
+sS'G_J G_PRT G_J'
+p543
+I1
+sS'G_V G_V G_R'
+p544
+I1
+sS'G_J G_PRT G_N'
+p545
+I2
+sS'G_R G_PRT G_J'
+p546
+I1
+sS'G_PRT G_J G_J'
+p547
+I1
+sS'G_V G_R G_V'
+p548
+I9
+sS'G_PRT G_J G_N'
+p549
+I2
+sS'CC G_PRT G_PRP'
+p550
+I38
+sS'G_SYM G_V G_N'
+p551
+I113
+sS'G_SYM G_V G_J'
+p552
+I3
+sS'G_PRP G_SYM G_J'
+p553
+I4
+sS'G_PRT G_J'
+p554
+I59
+sS'G_PRP G_SYM G_N'
+p555
+I46
+sS'G_PRT G_N'
+p556
+I496
+sS'G_PRP G_N CC'
+p557
+I382
+sS'G_PRP G_PRP G_PRT'
+p558
+I11
+sS'G_PRP G_SYM G_R'
+p559
+I1
+sS'G_PRT G_R'
+p560
+I8
+sS'G_J G_R G_V'
+p561
+I3
+sS'G_SYM G_V G_X'
+p562
+I292
+sS'G_PRT G_V'
+p563
+I330
+sS'G_N G_V CC'
+p564
+I6491
+sS'G_SYM G_V G_V'
+p565
+I8
+sS'G_PRT G_X'
+p566
+I30
+sS'G_SYM G_V G_R'
+p567
+I1
+sS'G_SYM G_X G_V'
+p568
+I1
+sS'<s> G_SYM G_J'
+p569
+I3
+sS'G_PRP G_V G_PRT'
+p570
+I2
+sS'<s> G_SYM G_N'
+p571
+I55
+sS'G_PRP G_V G_PRP'
+p572
+I174
+sS'G_J G_J G_J'
+p573
+I2
+sS'G_N G_N G_R'
+p574
+I527
+sS'<s> G_SYM G_X'
+p575
+I1
+sS'G_J G_N G_SYM'
+p576
+I9
+sS'G_SYM G_X G_N'
+p577
+I1
+sS'G_N G_R CC'
+p578
+I1
+sS'<s> G_SYM G_V'
+p579
+I15
+sS'G_J G_R G_PRP'
+p580
+I1
+sS'G_PRP G_PRT G_N'
+p581
+I52
+sS'G_N G_PRT CC'
+p582
+I2
+sS'CC G_N CC'
+p583
+I369
+sS'<\\s> <s> <\\s>'
+p584
+I1
+sS'CC G_J G_V'
+p585
+I95
+sS'G_N G_PRP G_J'
+p586
+I358
+sS'CC G_J G_J'
+p587
+I4
+sS'G_PRT G_V CC'
+p588
+I144
+sS'CC G_J G_N'
+p589
+I248
+sS'G_J G_PRP G_V'
+p590
+I28
+sS'<s> G_X G_V'
+p591
+I2
+sS'G_PRT G_J CC'
+p592
+I1
+sS'G_R G_PRP G_V'
+p593
+I18
+sS'G_X G_PRP G_N'
+p594
+I75
+sS'G_R G_PRP G_SYM'
+p595
+I1
+sS'G_X G_PRT G_N'
+p596
+I34
+sS'G_R G_PRP G_N'
+p597
+I119
+sS'G_X G_PRP G_V'
+p598
+I26
+sS'G_R G_PRP G_J'
+p599
+I5
+sS'G_X G_PRT G_V'
+p600
+I4
+sS'G_J G_PRP G_N'
+p601
+I33
+sS'<\\s> <s> G_PRT'
+p602
+I214
+sS'G_PRT G_N G_SYM'
+p603
+I1
+sS'G_X G_PRP G_X'
+p604
+I8
+sS'<\\s> <s> G_PRP'
+p605
+I4684
+sS'G_SYM G_SYM G_V'
+p606
+I16
+sS'G_PRP G_V G_SYM'
+p607
+I3
+sS'G_SYM G_SYM G_N'
+p608
+I61
+sS'G_R G_N G_PRP'
+p609
+I51
+sS'G_PRP G_PRP G_J'
+p610
+I116
+sS'G_R G_N G_PRT'
+p611
+I1
+sS'G_N G_V G_PRT'
+p612
+I42
+sS'G_N G_V G_PRP'
+p613
+I1894
+sS'G_N G_PRP CC'
+p614
+I13
+sS'G_R G_V G_PRP'
+p615
+I24
+sS'CC G_R G_PRT'
+p616
+I2
+sS'CC G_PRP G_R'
+p617
+I48
+sS'CC G_PRP G_V'
+p618
+I215
+sS'CC G_PRP G_X'
+p619
+I6
+sS'G_SYM G_V G_SYM'
+p620
+I7
+sS'G_J G_V G_R'
+p621
+I22
+sS'CC G_X <\\s>'
+p622
+I4
+sS'CC G_PRP G_J'
+p623
+I126
+sS'G_V G_N <\\s>'
+p624
+I5
+sS'CC G_PRP G_N'
+p625
+I2412
+sS'G_PRP G_N G_X'
+p626
+I35
+sS'G_PRP G_N G_R'
+p627
+I131
+sS'<s> G_N G_PRP'
+p628
+I968
+sS'G_PRP G_V G_N'
+p629
+I441
+sS'<s> G_N G_PRT'
+p630
+I58
+sS'G_SYM CC'
+p631
+I72
+sS'G_PRP G_V G_R'
+p632
+I8
+sS'G_PRP G_V G_V'
+p633
+I183
+sS'G_SYM G_V G_PRT'
+p634
+I1
+sS'G_PRP G_SYM G_V'
+p635
+I34
+sS'G_PRP G_V G_X'
+p636
+I679
+sS'G_SYM G_V G_PRP'
+p637
+I17
+sS'G_SYM G_SYM CC'
+p638
+I2
+sS'CC G_R G_R'
+p639
+I1
+sS'G_SYM G_PRP G_PRP'
+p640
+I2
+sS'G_N G_PRT G_V'
+p641
+I182
+sS'<\\s> <s> CC'
+p642
+I1117
+sS'G_X G_V CC'
+p643
+I18
+sS'G_V G_N CC'
+p644
+I274
+sS'G_PRP CC'
+p645
+I58
+sS'G_PRP G_SYM G_X'
+p646
+I1
+sS'G_N G_PRT G_R'
+p647
+I2
+sS'G_V CC G_SYM'
+p648
+I48
+sS'G_PRP G_J CC'
+p649
+I36
+sS'G_X G_X G_N'
+p650
+I3
+sS'G_N G_PRP G_R'
+p651
+I45
+sS'G_X G_X G_X'
+p652
+I2
+sS'G_R G_PRP CC'
+p653
+I1
+sS'<s> G_PRT G_J'
+p654
+I2
+sS'G_N G_PRP G_SYM'
+p655
+I26
+sS'G_N G_X G_R'
+p656
+I7
+sS'G_N G_SYM G_PRP'
+p657
+I14
+sS'G_N G_SYM G_PRT'
+p658
+I1
+sS'G_PRP G_J G_V'
+p659
+I845
+sS'<s> G_N <\\s>'
+p660
+I49
+sS'G_N G_X G_N'
+p661
+I385
+sS'G_PRP CC G_V'
+p662
+I1
+sS'G_R G_J CC'
+p663
+I4
+sS'G_PRP CC G_N'
+p664
+I42
+sS'G_PRT G_X <\\s>'
+p665
+I30
+sS'G_J G_N CC'
+p666
+I68
+sS'G_PRP CC G_J'
+p667
+I1
+sS'G_PRP G_J G_N'
+p668
+I84
+sS'G_PRP G_N G_PRP'
+p669
+I549
+sS'G_PRP G_J G_J'
+p670
+I11
+sS'G_N G_PRP G_N'
+p671
+I3616
+s.
