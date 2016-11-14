@@ -65,6 +65,6 @@ if __name__=="__main__":
 	data,hindi,eng = amass(file,data) #reads data from file and adds the start and end tags. File to list.
 
 	# Calculate the frequencies
-	for n in range(1,7):
+	for n in range(2,4):
 		word_cnt, tag_cnt = calculate(data, word_cnt, tag_cnt, n)
 

@@ -1,7 +1,8 @@
 # Code mixed NL Generation
 
 -------
-## "data" Folder
+
+## "code_mixed" Folder
    All data is Hindi-English code mixed.
 >
 	1) fb_FN.txt - Facebook data, Fine-Grained
@@ -12,3 +13,8 @@
 >
 	5) wa_FN.txt - whatsapp data, Fine-Grained
 	6) wa_CR.txt - whatsapp data, Coarse-Grained
+	
+## "monolingual" Folder
+   Data is in Hindi.
+>
+	1) wx_hindi.txt - monolingual data, wx notation
