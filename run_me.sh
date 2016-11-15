@@ -7,3 +7,4 @@ python Monomodel.py
 python combine.py
 
 #generate
+python generate.py
