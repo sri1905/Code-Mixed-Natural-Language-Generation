@@ -6,19 +6,19 @@ from collections import OrderedDict
 stag = '<s>' 
 etag = '<\s>'
 
-def add(word, dic):
-	if word in dic:
-		dic[word]+=1
+def plusone(unit, dic):
+	if unit in dic:
+		dic[unit]+=1
 	else:
-		dic[word]=1
+		dic[unit]=1
+
+	return dic
 
 def amass(file,data):
 	global mapping
 	fin = open(file,'r')
 
 	data.append([stag,stag])
-	hindi = OrderedDict()
-	eng = OrderedDict()
 
 	for line in fin:
 		if line=='\n':
@@ -30,9 +30,9 @@ def amass(file,data):
 			data.append(cur)
 
 	data.append([etag,etag])
-	return data, hindi, eng
+	return data
 
-def calculate(data, word_cnt, tag_cnt, n):
+def calculate(data, word_cnt, tag_cnt, tagtoword, tw_cnt, n):
 	for i in range(len(data)-n+1):
 
 		w_ngram = '' #ngram of words
@@ -46,33 +46,48 @@ def calculate(data, word_cnt, tag_cnt, n):
 			t_ngram+=tag+' '
 
 		#print w_ngram, t_ngram
+		tagram = t_ngram[:-1]
+		wordgram = w_ngram[:-1]
 
-		add(w_ngram[:-1], word_cnt)
-		add(t_ngram[:-1], tag_cnt)
+		if not tagram in tagtoword:
+			tagtoword[tagram] = []
+		if not wordgram in tagtoword[tagram]:
+			tagtoword[tagram].append(wordgram)
+		tag_word = tagram+'<d>'+wordgram
+		tw_cnt = plusone(tag_word, tw_cnt)
 
-	return word_cnt, tag_cnt
+		word_cnt = plusone(w_ngram[:-1], word_cnt)
+		tag_cnt = plusone(t_ngram[:-1], tag_cnt)
+
+	return word_cnt, tag_cnt, tagtoword, tw_cnt
 
 if __name__=="__main__":
 
 	word_cnt = OrderedDict() # structure - {'ngram of words':[cnt of n,cnt of n-1]}
 	tag_cnt = OrderedDict() # structure - {'ngram of tags':[cnt of n,cnt of n-1]}
 
-	#file = raw_input('Enter path to the file - ')
-	file = 'monolingual/wx_hindi.txt'
+	tagtoword = OrderedDict() # structure - {'ngram of tags' : [ngrams of words]}
+	tw_cnt = OrderedDict() # structre - {'tagword':cnt}
+	
+	file = raw_input('\nPath to the monolingual data - ')
 
 	mapping = OrderedDict()
-	f=open('CR_map')
+	mapname = raw_input('Path to mapping file - ')
+	f = open(mapname,'r')
 	a=f.readlines()
 	for i in a:
 		mapping[i.split(':')[0]] = i.split(':')[1].strip()
 
-
 	data = [] # structure - [[word,tag],[word,tag]...]
-	data,hindi,eng = amass(file,data) #reads data from file and adds the start and end tags. File to list.
+	data = amass(file,data) #reads data from file and addss the start and end tags. File to list.
 
 	# Calculate the frequencies
 	for n in range(1,7):
-		word_cnt, tag_cnt = calculate(data, word_cnt, tag_cnt, n)
+		word_cnt, tag_cnt, tagtoword, tw_cnt = calculate(data, word_cnt, tag_cnt, tagtoword, tw_cnt, n)
+
+	print "Done processing monolingual data ("+file+')'
 
 	pickle.dump(tag_cnt,open('pickles/monotag.pkl','wb'))
 	pickle.dump(word_cnt,open('pickles/monoword.pkl','wb'))
+	pickle.dump(tagtoword, open('pickles/monotagtoword.pkl','wb'))
+	pickle.dump(tw_cnt, open('pickles/monotw_cnt.pkl','wb'))
